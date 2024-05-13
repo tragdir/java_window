@@ -32,5 +32,5 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass.set("terminal_game.App")
+    mainClass.set("terminal_game.EntryPoint")
 }
